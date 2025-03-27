@@ -1,10 +1,17 @@
-# Objetivos de la repositorio
-
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+# Documentación sobre el Markdown de GitHub
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Pagina web donde aprender de Markdown:
 
-## actualizacion del GIT para el repositorio
-ahora mas que nunca realizar la web www.Tukuyweb.com para ir mejorando en procesos y cambios de paradigmas, esto mejorar mi persona.
+  [Markdown](http://Markdowntutorial.com)
+
+## GitHub Markdown sheet:
+
+[Hojas con estilo](http://https://docs.github.com/en) 
+
+## Emojis de GitHub:
+
+[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+
